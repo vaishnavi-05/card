@@ -1,0 +1,88 @@
+.true{
+    background-color:rgb(235, 229, 229);
+    border: 15px solid white;
+    margin-top:100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding:16px ;
+    width:340px;
+  
+}
+     p{
+       text-align: center ;
+      }
+          h4
+          {
+               border: 2px outset rgb(240, 227, 227);
+            
+               background-color: whitesmoke;    
+               text-align: center;
+               padding: 0px;
+               font-size: 25px;
+           }
+                  h5{ background-color: rgb(178, 145, 202);
+                    border: 1px outset  rgb(178, 145, 202);
+                        font: style 3;
+                        text-align: center;
+                        padding: 4px;
+                        margin: 1px;
+                    
+                    }
+
+                       img{
+                         display: block;
+                         margin-left: auto;
+                         margin-right: auto;
+                         width: 150px;
+                           border-radius: 70px;
+                    }
+ul{
+  list-style: none;
+  margin: 2px;
+  padding: 5px;
+  text-align: center;
+}
+li{
+  display:inline-block;
+  width: 30px;
+  height: 30px;
+  color: rgb(69, 15, 119);
+  padding: 5px;
+  margin: 5px  7px;
+  text-align: center;
+
+}
+.set
+{
+  text-align: center;
+  font-size: 30px;
+}
+.fa-facebook{
+background-color: rgb(36, 143, 231);
+width: 40px;
+height: 30px;
+
+
+
+}
+.fa-twitter{
+  background-color: rgb(53, 129, 143);
+  width: 40px;
+  height: 30px;
+}
+.fa-linkedin{
+  background-color: rgb(76, 95, 148);
+  width: 40px;
+  height: 30px;
+}
+.fa-instagram{
+  background-color: rgb(167, 187, 201);
+  width: 40px;
+  height: 30px;
+}
+.fa-github{
+  background-color: rgb(116, 180, 170);
+  width: 40px;
+  height: 30px;
+}
